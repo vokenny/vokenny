@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kenny Vo
+# Hi, I’m Kenny Vo 👋
 
 I'm a Test Automation Engineer in London, UK 🇬🇧
 

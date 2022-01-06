@@ -8,7 +8,7 @@ I'm a Test Automation Engineer in London, UK 🇬🇧
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vokenny)
 
-# Languages and Tools
+# Languages and Tools 🧰
 
 <a href="https://www.scala-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" height="40"/></a>
 <a href="https://www.selenium.dev/"><img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="Selenium" height="40"/></a>

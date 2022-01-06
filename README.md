@@ -4,7 +4,7 @@ I'm a Test Automation Engineer in London, UK 🇬🇧
 
 👀 I’m interested in test automation with Selenium & Cypress, and web development!
 
-🌱 I’m currently learning web development with [@TheOdinProject](https://github.com/TheOdinProject/theodinproject)!😄
+🌱 I’m currently learning web development with [@TheOdinProject](https://github.com/TheOdinProject/theodinproject)! 😄
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vokenny)
 

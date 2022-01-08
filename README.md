@@ -1,6 +1,6 @@
 # Hi, I’m Kenny Vo 👋
 
-I'm a Test Automation Engineer in London, UK 🇬🇧
+I'm a Test Automation Engineer in London, UK
 
 👀 I’m interested in test automation with Selenium & Cypress, and web development!
 

@@ -11,11 +11,11 @@ I'm a Test Automation Engineer in London, UK
 # Languages and Tools 🧰
 
 <a href="https://www.scala-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" height="40"/></a>
-<a href="https://www.selenium.dev/"><img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="Selenium" height="40"/></a>
-<a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ" height="40"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/></a>
 <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/></a>
+<a href="https://www.selenium.dev/"><img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="Selenium" height="40"/></a>
 <a href="https://www.cypress.io/"><img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round-flat.svg" alt="Cypress" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ" height="40"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40"/></a>
 <a href="https://www.postman.com/"><img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman API" height="40"/></a>
 <a href="https://html.spec.whatwg.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40"/></a>

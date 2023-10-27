@@ -1,6 +1,6 @@
 # Hi, I’m Kenny Vo 👋
 
-I'm a QA Engineer in London, UK
+I'm a Senior QA Engineer in London, UK
 
 👀 I’m interested in test automation with Cypress & Selenium, and web development!
 

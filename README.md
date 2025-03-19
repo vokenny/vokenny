@@ -12,7 +12,6 @@ I'm a Senior QA Engineer in London, UK
 <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/></a>
 <a href="https://www.cypress.io/"><img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round-flat.svg" alt="Cypress" height="40"/></a>
 <a href="https://www.scala-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" height="40"/></a>
-<a href="https://www.selenium.dev/"><img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="Selenium" height="40"/></a>
 
 <!---
 vokenny/vokenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
